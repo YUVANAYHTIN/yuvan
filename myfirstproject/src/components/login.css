@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&family=Inconsolata:wght@500&family=Kanit:wght@200&family=Poppins&display=swap');
+
+
+body{
+    font-family: 'IM Fell Great Primer SC', serif;
+    background-image: url('./background4.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 18px;
+}
+
+h2
+{
+    color: ghostwhite;
+    text-align: center;
+}
+.yuvan
+{
+    text-align: right;
+    padding-right: 50px;
+}
+.selva
+{
+   
+    color: ghostwhite;
+}
+li 
+{
+    list-style-type: none;
+}
